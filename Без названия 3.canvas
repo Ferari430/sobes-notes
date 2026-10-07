@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"8e32e6fd1b115bcc","type":"file","file":"interview/concurrency/gomaxprocs.md","x":-1060,"y":-580,"width":900,"height":980,"color":"5"}
+	],
+	"edges":[]
+}
